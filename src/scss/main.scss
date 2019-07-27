@@ -70,3 +70,28 @@ body,html{
     -moz-box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.61);
     box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.61);
 }
+#github_rep{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+}
+#github_rep #gr_box {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+#github_rep #gr_box #git_text, 
+#github_rep #gr_box #git_logo {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+#github_rep #gr_box #git_text a{
+    color:white;
+    text-decoration: none;
+    font-family: Roboto, 'sans-serif';
+}
+#github_rep #gr_box #git_logo img {
+    width: 60px;
+    cursor: pointer;
+}

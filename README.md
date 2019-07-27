@@ -6,15 +6,12 @@ En este ejercicio te proveemos un par de Mockups para que pongas en práctica lo
 
 Este es el primero de los ejercicios que debes realizar:
 
-<center>
-
 ![Mockup 1](https://static.platzi.com/media/user_upload/Mobile-906e79ce-439e-4321-bfd9-27b11b0f86e5.jpg)
 
 ![Mockup 2](https://static.platzi.com/media/user_upload/daily1-68a115a5-2c1f-4a38-9918-b13a9359e9cc.jpg)
 
 ![Mockup 3](https://static.platzi.com/media/user_upload/Page%201-d8d869f4-7130-4ae9-9907-2fa809bd136a.jpg)
 
-</center>
 ---
 
 ## Como instalar este ejercicio
@@ -29,3 +26,9 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+---
+
+## Demo
+
+Si desea ver este trabajo en el **Github Page** haz click [aquí](https://vidaldev.github.io/sass-pug/)

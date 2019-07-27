@@ -14,6 +14,13 @@
           label(class="fs-label") Cargo
           input(class="fs-label" name="cargo" id="cargo" value="FullStack JS")
         button(type='submit' class='btn-action') ENVIAR
+    #github_rep
+      #gr_box
+        #git_text 
+          a(href="https://github.com/vidaldev/sass-pug/") Ver el repositorio de este proyecto
+        #git_logo
+          a(href="https://github.com/vidaldev/sass-pug/") 
+            img(src="./assets/logo-github.png")
 </template>
 
 <script>
