@@ -20,7 +20,7 @@
           a(href="https://github.com/vidaldev/sass-pug/") Ver el repositorio de este proyecto
         #git_logo
           a(href="https://github.com/vidaldev/sass-pug/") 
-            img(src="./assets/logo-github.png")
+            img(src="assets/logo-github.png")
 </template>
 
 <script>
